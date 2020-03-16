@@ -1,0 +1,78 @@
+/* Edit size of banner logo */
+.logo-img img {
+    width: 300px;   
+}
+
+/* Fix hamburger button padding */
+.slicknav_btn {
+    margin-top: -15px;
+}
+
+/* Home page bg image */
+.slider_bg_1 {
+    background-image: url(../img/banner/6.jpg);
+}
+
+.slider_area::before {
+    background: darkgray;
+    opacity: 0.3;
+}
+
+.slider_text h3 {
+    color: #450000 !important;
+}
+
+/* Headers for all other pages */
+.breadcam_area::before {
+    background: darkgray;
+    opacity: 0.3;
+}
+
+.breadcam_area .breadcam_text h3 {
+    color: #450000;
+ }
+    
+/* "2 Ways to be Involved" */
+#involved-title {
+    font-size: 60px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+#involved-p {
+    margin-bottom: 60px;
+}
+
+#fin-don div {
+    margin: 0 auto;
+    margin-bottom: 17px;
+}
+
+/* "Become a Volunteer" bg image */
+.volunter_bg_1 {
+    background-image: url(../img/banner/volunteer.JPG);
+}
+
+/* Header background image for pages */
+.bradcam_bg {
+    background-image: url(../img/banner/4.jpeg);
+}
+
+/* Video on home page */
+.volunteers_area video {
+    width: 100%;
+}
+
+/* Remove top padding from an element */
+#remove-top-padding {
+    padding-top: 0px;
+}
+
+/* Remove bottom padding from an element */
+#remove-bottom-padding {
+    padding-bottom: 0px;
+}
+
+
+
+
